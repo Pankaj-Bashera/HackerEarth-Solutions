@@ -16,13 +16,6 @@ This repo contains my accepted solutions to various **HackerEarth practice probl
 
 ---
 
-## 📈 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Bashera&theme=tokyonight)  
-![Stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bashera&show_icons=true&theme=tokyonight)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Bashera&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Contributing
 Pull requests are welcome!  
 If you’d like to add solutions in **other languages** (Python/Java), feel free to open a PR.
