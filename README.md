@@ -12,7 +12,7 @@ This repo contains my accepted solutions to various **HackerEarth practice probl
    cd HackerEarth-Solutions
    ```
 2. Navigate to the topic you need.
-3. Open the `.cpp` file → code is commented with problem statement & approach.
+3. Open the `.cpp` file for the solution.
 
 ---
 
